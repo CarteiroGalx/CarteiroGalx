@@ -1,4 +1,4 @@
-- 👋 Olá, sou @CarteiroGalx, mas meu verdadeiro nome é Erivelton Almeida;
+- 👋 Olá, sou @CarteiroGalx, mas meu verdadeiro nome é Erivelton;
 - 👀 Estou interessado em uma vaga como front-end, buscando sempre me aprimorar para alcançar este ponto;
 - 🌱 Estou atualmente aprendendo React, AngularJS, CI/CD e etc.
 
