@@ -56,6 +56,6 @@ Sinta-se à vontade para me contatar sobre projetos, colaborações ou apenas pa
 
 ### [LinkedIn](https://www.linkedin.com/in/erivelton-almeida-lopes-6996b1272/)
 ### [Itch.io](https://carteirogalx.itch.io)
-### [GitHub](link-do-github)
+### [Portifolio](https://portifolio-erivelton.vercel.app)
 
 Obrigado por visitar meu perfil! 😊
