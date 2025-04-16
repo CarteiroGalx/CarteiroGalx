@@ -52,10 +52,10 @@ O jogo está disponivel em: https://carteirogalx.itch.io/paragon-traveller
 
 # 📞Contato
 
-Sinta-se à vontade para me contatar sobre projetos, colaborações ou apenas para trocar ideias sobre desenvolvimento de jogos! Você pode me encontrar em:
+Sinta-se à vontade para me contatar em:
 
 ### [LinkedIn](https://www.linkedin.com/in/erivelton-almeida-lopes-6996b1272/)
-### [Itch.io](https://carteirogalx.itch.io)
+### [Itch.io](https://carteirogalx.itch.io) (Aqui é onde publico meus jogos)
 ### [Portifolio](https://portifolio-erivelton.vercel.app)
 
 Obrigado por visitar meu perfil! 😊
