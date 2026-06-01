@@ -1,61 +1,110 @@
-# 🧑Olá, sou Erivelton Almeida! 
+<h1 align="center">Olá, me chamo Erivelton Almeida! 👋</h1>
+<div align="center">
 
-Sou um estudante da faculdade IBGM, mais conhecida como Unibra, em Recife-PE. **Sou apaixonado em criar jogos!** A programação é uma arte fascinante para mim, e apesar de ser difícil certas vezes, eu definitivamente adoro oque faço. Estou focando agora em ser um programador **Full-stack** para poder adentrar mais facilmente no mercado de trabalho com um curriculo que possa ser atraente.
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Seja+bem-vindo+ao+meu+perfil!;Desenvolvedor+Back-end;Programador+de+jogos)](https://git.io/typing-svg)
 
-Atualmente eu dei uma pausada no desenvolvimento de meus games para focar os estudos em **.NET** e disciplinas da faculdade, mas pretendo voltar a fazê-los logo logo!
+<p align="center">
+  <a href="https://www.linkedin.com/in/erivelton-almeida-lopes-6996b1272/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:almeidalopeserivelton@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/CarteiroGalx"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 
-![CarteiroGalx's Stats](https://github-readme-stats.vercel.app/api?username=CarteiroGalx&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+Entusiasta da tecnologia e Desenvolvedor Back-end focado em criar soluções robustas e escaláveis. Sou graduado em Análise e Desenvolvimento de Sistemas pela UNIBRA (Pernambuco).
 
-![CarteiroGalx's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CarteiroGalx&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+Atualmente, concentro meus esforços no ecossistema .NET (C#) e JavaScript (React), aplicando princípios como SOLID, DRY e KISS para garantir códigos limpos e de fácil manutenção. Tenho experiência na construção de APIs RESTful com ASP.NET Core e integração com bancos de dados SQL. 
 
-# 🧠Habilidades  
-- **👨‍💻Linguagens:**
-  - C#  
-  - JavaScript
-  - HTML & CSS
+Há também um pouco de Unity incluindo alguns projetos de games já concluídos, mas que resolvi dar uma pausa nos estudos de desenvolvimento de jogos para focar totalmente em arrumar minhas primeiras oportunidades no mercado tecnológico.
 
-- **🛠Frameworks e Ferramentas:**
-  - .NET
-  - React
-  - Unity    
-  - Visual Studio  
+---
 
-- **💻Outras Tecnologias:**
-  - Git & GitHub   
-  - SQL  
+## 🛠 Tescnologias usadas
 
-# 🌟Projetos em destaque
-### 1. [Desafio de curso DIO: criação de uma API](https://github.com/CarteiroGalx/trilha-net-api-desafio)
-Neste desafio eu tinha de fazer uma API de tarefas, aonde cada tarefa estava armazenada num banco de dados. A API havia de fazer um **CRUD** completo entre cada uma das tarefas registradas no banco de dados. Este exercício serviu como um bom treinamento.
-  
-### 2. [Site completo funcional com ASP.NET](https://github.com/CarteiroGalx/Site-MVC-projeto)
-Um outro projeto feito com a DIO, mas que me ensinou os fundamentos para fazer meus próprios sites usando ASP.NET. Esse sim me deu um **Boom cerebral**.
-  
-### 3. [Game feito em Python: Hiper Racer](https://github.com/CarteiroGalx/Hiper-Racer)
+<details open>
+<summary><b>💻 Linguagens</b></summary>
+<br>
 
-  ![image](https://github.com/user-attachments/assets/81f00db9-01de-4ad6-80d4-0b5a88a09903)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Static Badge](https://img.shields.io/badge/SQL-white?style=for-the-badge&logo=sql&logoColor=blue&color=white)
+</details>
 
-Um dos jogos poucos jogos que fiz utilizando Python, e este foi o meu 2° jogo feito. O jogador é simplesmente um carro vermelho indo na contra mão de uma avenida, tendo que desviar dos carros e se for atingido 5 vezes, ele perde. Os pontos são ganhos a partir de moedas douradas, e é bom evitar as moedas vermelhas pois elas retiram pontos!
-Em breve estarei refazendo esse mesmo jogo, aguardem o dia do nascimento de... **Super Hiper Racer**.
+<details open>
+<summary><b>📚 Frameworks & Biblioteca</b></summary>
+<br>
 
-O jogo está disponível em: https://carteirogalx.itch.io/hiper-racer
-     
-### 4. Game feito com ❤: Paragon Traveller
-   
-   ![image](https://github.com/user-attachments/assets/831e9f8c-b4b8-4604-85ed-c1159e3179fe)
+[![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://img.shields.io/badge/.NET-purple?style=for-the-badge&logo=dotnet)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+</details>
 
-O melhor jogo que fiz atualmente, feito no Unity. Extremamente simples e que consegue prender uma pessoa por uns bons minutos. Foi o meu primeiro jogo feito com C# e o processo foi muito divertido, e eu pude colocar cada gota de carinho nesse projeto durante cada momento que digitava cada letra nos arquivos. O jogo tem um objetivo direto: sobreviver. O jogador é uma nave que viaja no espaço e deve sobreviver aos ataques inimigos que irão surgir na tela, típico de **Space Invader**. O jogo possui até mesmo chefões!!
+<details open>
+<summary><b>🗄️ Banco de Dados</b></summary>
+<br>
 
-O jogo está disponivel em: https://carteirogalx.itch.io/paragon-traveller
-     
-**Infelizmente não teremos o repositório do game pois todos os arquivos foram perdidos logo após o update dos bosses, então tudo que restou foi o link para apenas jogar o jogo 😭**
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-white?style=for-the-badge&logo=Sqlite&logoColor=blue)
 
-# 📞Contato
+</details>
 
-Sinta-se à vontade para me contatar em:
+<details open>
+<summary><b>⚙️ Ferramentas & DevOps</b></summary>
+<br>
 
-### [LinkedIn](https://www.linkedin.com/in/erivelton-almeida-lopes-6996b1272/)
-### [Itch.io](https://carteirogalx.itch.io) (Aqui é onde publico meus jogos)
-### [Portifolio](https://portifolio-erivelton.vercel.app)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-Obrigado por visitar meu perfil! 😊
+</details>
+
+<details open>
+<summary><b>🤖 IA & Ferramentas Modernas</b></summary>
+<br>
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+
+</details>
+
+---
+
+## 📊 GitHub Estatísticas
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=CarteiroGalx&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" alt="Estatísticas GitHub"/>
+      </td>
+      <td align="center">
+        <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CarteiroGalx&layout=compact&langs_count=7&theme=radical&hide_border=true&cache_seconds=1800" alt="Linguagens mais usadas"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+<p align="center"><b>Visitantes</b></p>  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CarteiroGalx&color=dc143c&style=flat-square&label=Visualizações" alt="Contador de Visitantes"/>
+</p>
+</div>
+
+---
+
+## 📞 Como Me Encontrar
+
+<div align="center">
+
+### 🤝 Conecte-se Comigo
+
+| Plataforma      | Link                                                        |
+| --------------- | ----------------------------------------------------------- |
+| 💼 **LinkedIn** | [Erivelton Almeida](https://www.linkedin.com/in/erivelton-almeida-lopes-6996b1272/)    |
+| 📧 **Email**    | [almeidalopeserivelton@gmail.com](mailto:almeidalopeserivelton@gmail.com) |
+| 🐙 **GitHub**   | [Erivelton Almeida](https://github.com/CarteiroGalx)        |
+
+</div>
